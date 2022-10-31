@@ -43,6 +43,16 @@ main {
     flex-grow: 1;
 }
 
+.main-content {
+    padding: 48px;
+    width: 50%;
+    background-color: var(--primary-color);
+}
+
+p {
+    color: var(--secondary-color);
+}
+
 h3{
     font-weight: 300;
     font-size: 1rem;
